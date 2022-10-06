@@ -1,0 +1,42 @@
+.box{
+      background: linear-gradient(to left,#33ffcc,#ff99cc);
+}
+.borders{
+      border-color: #ff99cc;
+      border-width: 2px;
+      border-radius: 8px;
+}
+.buton{
+      width: 150px;
+      color: blue;
+      background-color: azure;
+      box-shadow: #ff99cc;
+      cursor: pointer;
+}
+.box{
+      background: linear-gradient(to left,#33ffcc,#ff99cc);
+      padding: 24px;
+      border-radius: 8px;
+      margin-top: 0px;
+      
+}
+.table-box{
+      background-color: rgb(77, 170, 77);
+      padding-top: 12px;
+}
+.labal{
+      font-family: roboto;
+      font-size:18px;
+      font-style:normal;
+}
+.box1{
+      background: linear-gradient(to left,#33ffcc,#ff99cc);
+      border-width: 0px;
+      box-shadow: inset;
+      margin: 8px;
+}
+.box2{
+      background: linear-gradient(to left,#33ffcc,#ff99cc);
+      border-radius: 8px;
+      padding: 4px;
+}

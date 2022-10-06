@@ -1,0 +1,53 @@
+.wall-container{
+      background: linear-gradient(to bottom right,#33ffcc,#ff99cc);
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+
+}
+.anor-box{
+      margin-top: 24px;
+}
+.head{
+      color: black;
+      font-family: roboto;
+      font-size: 42px;
+      font-weight: bold;
+      margin-bottom: 12px;
+}
+.heads{
+      color: black;
+      font-family: roboto;
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 24px;
+      margin-top: 28px;
+}
+.para{
+      color: black;
+      font-family: roboto;
+      font-size: 16px;
+      font-weight: bold;
+      padding: none;
+      margin: 0%;
+      margin-top: 12px;
+
+}
+.wall-box{
+      text-align: center;
+      justify-content:end;
+      margin-top: 45px;
+
+
+}
+.paras{
+      padding: 0%;
+}
+.img-box{
+      padding-inline:14px;
+}
+.image{
+      background: transparent;
+      height: 100vh;
+      width: 100vh;
+}

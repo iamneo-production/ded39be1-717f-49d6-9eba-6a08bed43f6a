@@ -1,0 +1,48 @@
+.boxes{
+      background: linear-gradient(to top right,#5bcbf0,#b08198);
+      height: 100vh;
+      width: 100vh;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+
+}
+.containers{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+      width: 100vh;
+      padding: 24px;
+      margin: 8px;
+      border-radius: 8px;
+      border-width: 2px;
+      height: 80vh;
+      text-align: center;
+}
+.image{
+      height: 100vh;
+      width: 100vh;
+      background-size: cover;
+}
+.logo{
+      height: 180px;
+      width: 528px;
+      justify-content: center;
+      text-align: center;
+      padding-top: 12px;
+      margin: auto;
+      padding-bottom: 12px;
+}
+.buton{
+      background: linear-gradient(to top left,#33ccff,#ff99cc);
+      border: none;
+      cursor: pointer;
+      border-radius: 15px;
+      border-width: 0px;
+      margin-left: auto;
+      margin-right: auto;
+}
+.buton:active{
+      transform: translateY(4px);
+}

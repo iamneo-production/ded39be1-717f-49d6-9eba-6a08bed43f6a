@@ -1,0 +1,24 @@
+.containers{
+      background: linear-gradient(to right,#33ffcc,#ff99cc);
+      background-size: cover;
+}
+.navbar-box{
+      background-color: #ff99cc;
+}
+
+.head-styled{
+      font-family: roboto;
+      font-size: 20px;
+      padding: 8px;
+      color: #33ffcc;
+      text-decoration: none;
+     
+
+}
+.head-styled:active{
+      color: #ff99cc;
+}
+.head-styled:hover{
+      color: #ff99cc;
+      transition:1s;
+}

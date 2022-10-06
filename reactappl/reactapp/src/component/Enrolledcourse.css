@@ -1,0 +1,32 @@
+.labal{
+      font-family: roboto;
+      font-size:18px;
+      font-style:normal;
+}
+.buton{
+      width: 150px;
+      color: blue;
+      background-color: azure;
+      box-shadow: #ff99cc;
+      cursor: pointer;
+}
+.box2{
+      background: linear-gradient(to left,#33ffcc,#ff99cc);
+      border-radius: 8px;
+      padding: 4px;
+}
+.box{
+      background: linear-gradient(to left,#33ffcc,#ff99cc);
+      border-radius: 8px;
+
+}
+.box3{
+      background: linear-gradient(to left,#33ffcc,#ff99cc);
+      border-radius: 8px;
+      padding: 8px;
+      display: flex;
+      flex-direction:column;
+      justify-content: center;
+
+}
+

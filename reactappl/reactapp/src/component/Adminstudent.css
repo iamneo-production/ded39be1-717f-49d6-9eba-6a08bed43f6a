@@ -1,0 +1,13 @@
+
+.box{
+      background: linear-gradient(to left,#33ffcc,#ff99cc);
+      padding: 24px;
+      border-radius: 8px;
+      margin-top: 0px;
+      margin-bottom: 12px;
+      
+}
+.table-box{
+      background-color: rgb(77, 170, 77);
+      padding-top: 12px;
+}
